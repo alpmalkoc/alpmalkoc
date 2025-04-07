@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Alp
 
-<!--
-**alpmalkoc/alpmalkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Matematik bölümü son sınıf öğrencisiyim.  
+📊 Finans, veri analizi ve yazılım ürün yönetimi alanlarına ilgi duyuyorum.  
+💡 Python ve Streamlit kullanarak finansal analiz araçları geliştiriyorum.  
+🚀 Gerçek dünya problemlerine çözümler üretmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projelerim
+
+### 🔹 [Crypto Dashboard (Streamlit)](https://github.com/alpmalkoc/crypto-dashboard-streamlit)
+Web arayüzlü bir kripto takip paneli. Kullanıcı coin ve tarih aralığını seçerek interaktif grafikler görebilir.
+
+### 🔹 [Crypto Price Analyzer](https://github.com/alpmalkoc/crypto-price-analyzer)
+Python ile yazılmış, CoinGecko API kullanarak fiyat verisi çekip grafikle analiz yapan bir proje.
+
+### 🔹 [Investment Data Notebook](https://github.com/alpmalkoc/investment-data-notebook)
+BTC ve ETH gibi kripto varlıkların fiyat verileri üzerinde analiz yapılan Jupyter Notebook projesi.
+
+### 🔹 [Fintech Glossary](https://github.com/alpmalkoc/fintech-glossary)
+Fintech dünyasında sık geçen 15+ temel terimin açıklamalarından oluşan basit ama etkili bir sözlük.
+
+### 🔹 [Product Manager Basics](https://github.com/alpmalkoc/product-manager-basics)
+Persona, user story ve roadmap gibi temel ürün yönetimi dokümanlarını içeren bir proje.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+- Python
+- Pandas, Matplotlib
+- Streamlit
+- Markdown, Jupyter Notebook
+
+---
+
+## 📬 Bana Ulaş:
+- 📧 **E-posta:** alp.malkoc1@gmail.com  
+- 📞 **Telefon:** 0539 849 46 59  
+- 💼 [LinkedIn [(https://www.linkedin.com/in/alp-malkoc/)]
