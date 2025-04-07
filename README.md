@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alpmalkoc/alpmalkoc/main/A_professional_digital_graphic_banner_features_Alp.png" alt="Alp Malkoç Banner" width="100%">
+</p>
+
+
 # 👋 Merhaba! Ben Alp
+
 
 🎓 Matematik bölümü son sınıf öğrencisiyim.  
 📊 Finans, veri analizi ve yazılım ürün yönetimi alanlarına ilgi duyuyorum.  
