@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alpmalkoc/alpmalkoc/main/banner.png" alt="Alp Malkoç Banner" width="100%">
+</p>
+
 # 👋 Merhaba! Ben Alp
 
 
